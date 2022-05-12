@@ -2,6 +2,8 @@
 
 A website using machine learning to guess an input word (voice recognition).
 
+Recorded audio clips must be trimmed to exactly 1 second long.
+
 ![alt text](Testing_Audio/voice_rec.png?raw=true "Title")
 
 ## Getting Started
